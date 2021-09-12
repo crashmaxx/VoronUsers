@@ -64,6 +64,10 @@ This version of the afterburner fan and duct is a drop in replacement to the spe
 \* Cleaner airflow for better overhangs
 
 ### CHANGE Log
+
+Added hinged versions by Anogar V1.150 V2.081 (Anogar#1290), see AB-BN-30_two-part.f3d and STL files in AB-BN-30_two-part folder
+![](ab-bn-30_two-part.jpg)
+
 Added step file for AB-BN-30
 
 Added support for Phaetus BMS and Phaetus BMO hotend
