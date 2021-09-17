@@ -9,5 +9,5 @@ Print using standard VORON print settings.  You'll need the same 2 heatset inser
 
 ![X motor mount back view](./Images/X_Motor2.PNG)
 
-See how to assemble. The M3x4 heat insert goes on the back side and the M3x30 bolt comes from the front.
 ![Cross Section](./Images/Cross-Sec.PNG)
+Cross section showing how to assemble. The M3x4 heat insert goes on the back side and the M3x30 bolt comes from the front.
