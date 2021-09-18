@@ -1,13 +1,19 @@
 SwitchWire Stronger XZ Motor Mounts
 ==========================================
 
-These are modified XZ motor mounts for VORON SwitchWire to add strength with a bolt at the bottom conneting the two halves. I found that the bottom of the mounts were seperating and weaking the entire mount. So I added a bolt and heat insert to keep it together. I have found this to help a lot.
-
-Print using standard VORON print settings.  You'll need the same 2 heatset inserts and 2 M3x30 SHCS screws as used in the rest of the motor mount.
+These are modified XZ motor mounts for VORON SwitchWire to add strength with a bolt at the bottom conneting the two halves.
 
 ![X motor mount overview](./Images/X_Motor.PNG)
 
 ![X motor mount back view](./Images/X_Motor2.PNG)
+
+==========================================
+
+![Current Problem](./Images/sw_xz_motor_mount_deflection.jpg)
+
+Original design can have the bottom of the mounts were seperating and weaking the entire mount. So I added a bolt and heat insert to keep it together. I have found this to help a lot.
+
+Print using standard VORON print settings.  You'll need 2 heatset inserts and 2 M3x30 SHCS screws, the same as used in the rest of the motor mount.
 
 ![Cross Section](./Images/Cross-Sec.PNG)
 
